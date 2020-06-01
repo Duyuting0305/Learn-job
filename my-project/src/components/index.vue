@@ -1,5 +1,5 @@
 <template>
-  <div style="height:500px">
+  <div>
       <div class="myclass">
         <div>你好，Anita</div>
       </div>

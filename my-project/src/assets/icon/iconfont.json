@@ -1,0 +1,86 @@
+{
+  "id": "1830180",
+  "name": "vue管理demo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13119205",
+      "name": "收起",
+      "font_class": "shouqi",
+      "unicode": "e7d3",
+      "unicode_decimal": 59347
+    },
+    {
+      "icon_id": "13119206",
+      "name": "展开",
+      "font_class": "zhankai",
+      "unicode": "e7d4",
+      "unicode_decimal": 59348
+    },
+    {
+      "icon_id": "10194045",
+      "name": "gauge",
+      "font_class": "gauge",
+      "unicode": "e6f3",
+      "unicode_decimal": 59123
+    },
+    {
+      "icon_id": "10194104",
+      "name": "line_chart",
+      "font_class": "line_chart",
+      "unicode": "e6f6",
+      "unicode_decimal": 59126
+    },
+    {
+      "icon_id": "10194284",
+      "name": "analysis_b",
+      "font_class": "analysis_b",
+      "unicode": "e6f9",
+      "unicode_decimal": 59129
+    },
+    {
+      "icon_id": "10195675",
+      "name": "analysis_d",
+      "font_class": "analysis_d",
+      "unicode": "e6fb",
+      "unicode_decimal": 59131
+    },
+    {
+      "icon_id": "10195733",
+      "name": "analysis_f",
+      "font_class": "analysis_f",
+      "unicode": "e6fd",
+      "unicode_decimal": 59133
+    },
+    {
+      "icon_id": "10196721",
+      "name": "doc_c",
+      "font_class": "doc_c",
+      "unicode": "e700",
+      "unicode_decimal": 59136
+    },
+    {
+      "icon_id": "10199259",
+      "name": "progress",
+      "font_class": "progress",
+      "unicode": "e70e",
+      "unicode_decimal": 59150
+    },
+    {
+      "icon_id": "10199462",
+      "name": "completion",
+      "font_class": "completion",
+      "unicode": "e713",
+      "unicode_decimal": 59155
+    },
+    {
+      "icon_id": "1968935",
+      "name": "火箭",
+      "font_class": "rocket__easyi",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}

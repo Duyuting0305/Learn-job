@@ -3,6 +3,9 @@ import Router from 'vue-router'
 import index from '@/components/index'
 import demo from '@/components/demo'
 import nav from '@/components/nav'
+import chooseone from '@/components/chooseone'
+import choosetwo from '@/components/choosetwo'
+import time from '@/components/time'
 
 Vue.use(Router)
 //解决同一个路由被多次添加
@@ -26,8 +29,23 @@ export default new Router({
         path: '/demo',
         name: 'demo',
         component: demo
+      },
+      {
+        path: '/chooseone',
+        name: 'chooseone',
+        component: chooseone
+      },
+      {
+        path: '/choosetwo',
+        name: 'choosetwo',
+        component: choosetwo
       }]
-    }
+    },
+      //    {
+      //   path: '/time',
+      //   name: 'time',
+      //   component: time
+      // },
     
   ]
 })
